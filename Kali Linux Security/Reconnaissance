@@ -1,1 +1,4 @@
 #Kali Reconnaissance with Nmap and DNS
+#focusing on network scanning and DNS querying techniques
+- Identifying open ports and services on a target system with nmap
+- Gathering DNS information using dnsrecon
